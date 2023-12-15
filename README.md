@@ -33,10 +33,10 @@ To run the project locally, follow these steps:
 
 ## Open the index.html file in your web browser.
 Folder Structure
-```index.html```: Main HTML file
-```style/```: Directory containing CSS styles
-```js/```: Directory containing JavaScript code
-```image/```: Directory containing product images
+- ```index.html```: Main HTML file
+- ```style/```: Directory containing CSS styles
+- ```js/```: Directory containing JavaScript code
+- ```image/```: Directory containing product images
 Contributing
 Contributions are welcome! If you have any suggestions or find any issues, please open an issue or create a pull request.
 
