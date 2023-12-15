@@ -2,6 +2,7 @@
 
 This repository contains the source code for an online shop called "Sudo Shop."
 
+```eng``
 ## Description
 
 Sudo Shop is a simple web application that showcases various products available for purchase. Users can browse through different categories such as Electronics, Clothing, and Books, view product details, add items to the cart, and proceed to checkout.
@@ -46,9 +47,7 @@ This project is licensed under the MIT License.
 Credits
 Developed by Avazov Og'abek
 
-
-Ushbu omborda "Sudo Shop" deb nomlangan onlayn-do'konning manba kodlari mavjud.
-``` ```
+```uzb``
 ## Tavsif
 
 Sudo Shop - bu xarid qilish mumkin bo'lgan turli xil mahsulotlarni ko'rsatadigan oddiy veb-ilova. Foydalanuvchilar elektronika, kiyim-kechak va kitoblar kabi turli toifalarni ko'rib chiqishlari, mahsulot tafsilotlarini ko'rishlari, savatga narsalarni qo'shishlari va to'lovni davom ettirishlari mumkin.
